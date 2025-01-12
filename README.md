@@ -326,7 +326,10 @@ skills1 = load_skills_to_find(&quot;/content/drive/MyDrive/Team Formation/Requir
 # Initialize population and start optimization
 population_size = 100
 initialize_population(skills1.copy())
-h2(#conclusion). Conclusion
+
+
+
+# Conclusion
 This repository implements an optimization approach to the team formation problem. By using a combination of skill&#45;based and cost&#45;based optimization techniques, it aims to form the best possible teams based on predefined criteria.
 
 This Markdown file includes the full Python code as well as explanations for each section. You can copy and paste this directly into a @README.md@ file for your GitHub repository.
