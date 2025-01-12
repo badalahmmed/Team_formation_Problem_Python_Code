@@ -1,0 +1,18 @@
+# Cite My Paper 
+#paper 1: 
+Authors
+Kamal Z. Zamli and Nabilah Filzah Mohd Radzuan Mohammad Badal Ahmmed
+Publication date
+2022/12/20
+Conference
+E-proceedings on the theme of Impact and Influence of Technology & Computing
+Volume
+10
+Issue
+2022
+Pages
+111
+Publisher
+ASEAN workshop on information science and technology
+Description
+Finding an efficient team in a social network is considered to be an NP-hard problem because of the large pool of experts and the infinite possible solutions. With the bi-objective criteria, the problem of team building becomes more complex and requires a lot of computational resources and time. In terms of computational measurements, metaheuristic algorithms are very popular among researchers because of their near-exact solution within reasonable time and resources. In this study, we compare the five latest and most popular population-based metaheuristic algorithms Jaya, Sine Cosine (SCA), Firefly (FA), Gray Wolf (GWO), and Social Network Search (SNS) optimization algorithms for solving bi-objectives team formation problem. To assess the suitability of the algorithms, we use UMP and ACM expertise datasets. Our study findings demonstrate that SNS performs best, and FA performs worst among Jaya, SCA, FA, and GWO to solve the bi-objective team building problem.
